@@ -10,7 +10,7 @@ and open the template in the editor.
         <title>My list</title>
     </head>
     <body>
-           <h1>My List</h1>
+           <h1>Synotec Holding(pvt)LTD</h1>
       
         <ul>
             <li>Tharushi</li>
