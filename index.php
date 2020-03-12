@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>My list</title>
+        <title>Synotec Holdings</title>
     </head>
     <body>
            <h1>Synotec Holding(pvt)LTD</h1>
