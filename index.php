@@ -10,9 +10,8 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1>Sigiriya</h1>
-        
-        
+           <h1>My List</h1>
+      
         <ul>
             <li>Tharushi</li>
             <li>Imasha</li>
