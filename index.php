@@ -10,7 +10,7 @@ and open the template in the editor.
         <title>Synotec Holdings</title>
     </head>
     <body>
-           <h1>Synotec Holding(pvt)LTD</h1>
+           <h1>SYNOTEC HOLDING(pvt)LTD</h1>
       
         <ul>
             <li>Tharushi</li>
