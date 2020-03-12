@@ -17,8 +17,7 @@ and open the template in the editor.
             <li>Imasha</li>
             <li>Uditha</li>
             <li>Madhuka</li>
-            <li>Dhanusha</li>
-            <li>Chalana</li>
+           
         </ul>
     </body>
 </html>
